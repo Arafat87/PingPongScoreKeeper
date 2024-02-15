@@ -21,3 +21,5 @@ git clone https://github.com/your-username/ping-pong-score-keeper.git
 
 # Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or fix any bugs.
+# Live view
+https://pingpsk.netlify.app
